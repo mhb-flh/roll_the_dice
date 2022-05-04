@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/prooooojects/diceroller/app/src/main/res/layout/activity_first_page.xml" value="0.20208333333333334" />
         <entry key="..\:/prooooojects/diceroller/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/prooooojects/diceroller/app/src/main/res/layout/activity_two_dice.xml" value="0.20208333333333334" />
       </map>
     </option>
   </component>
