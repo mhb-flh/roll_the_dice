@@ -8,8 +8,8 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="220dp"
-        android:layout_height="65dp"
+        android:layout_width="240dp"
+        android:layout_height="55dp"
         android:layout_marginBottom="132dp"
         android:text="Roll"
         app:layout_constraintBottom_toBottomOf="parent"

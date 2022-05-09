@@ -21,15 +21,15 @@
 
         <Button
             android:id="@+id/singleDice"
-            android:layout_width="200dp"
-            android:layout_height="65dp"
+            android:layout_width="240dp"
+            android:layout_height="55dp"
             android:layout_margin="10dp"
             android:text="single dice" />
 
         <Button
             android:id="@+id/twoDice"
-            android:layout_width="200dp"
-            android:layout_height="65dp"
+            android:layout_width="240dp"
+            android:layout_height="55dp"
             android:text="double dice" />
 
     </LinearLayout>
@@ -38,7 +38,7 @@
         android:id="@+id/imageView2"
         android:layout_width="200dp"
         android:layout_height="240dp"
-        android:layout_marginTop="160dp"
+        android:layout_marginTop="140dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
